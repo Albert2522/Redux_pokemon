@@ -1,3 +1,4 @@
+
 import { connect } from 'react-redux';
 
 import { receiveAllPokemon, requestAllPokemon } from '../../actions/pokemon_actions';
